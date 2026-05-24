@@ -1,3 +1,4 @@
+
 # 🎨 INVOFEST Frontend
 
 Event Management System - UTS Pemrograman Web 2
@@ -207,8 +208,8 @@ frontend/
 Untuk mengakses panel admin:
 
 ```
-NIM: 24090055
-Password: @Giska12345
+NIM: 24090052
+Password: admin1234
 ```
 
 ## 📱 Fitur
@@ -264,8 +265,8 @@ npm run preview
 
 | Field | Value |
 |-------|-------|
-| **NIM** | `24090055` |
-| **Password** | `@Giska12345` |
+| **NIM** | `24090052` |
+| **Password** | `admin1234` |
 
 ---
 
@@ -380,8 +381,8 @@ http://localhost:3001/api
 
 ## 👨‍💻 Author
 
-**Giska Aura Muhamad Prasetyo**
-- NIM: 24090055
+**Maula adiba mufadol**
+- NIM: 24090052
 - Prodi: D4 Teknik Informatika
 - Semester: 4 / Kelas: 4B
 - Mata Kuliah: Pemrograman Web 2
