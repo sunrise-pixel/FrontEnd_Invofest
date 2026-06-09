@@ -250,7 +250,7 @@ npm run build
 
 ## 📝 Lisensi
 
-Hak Cipta © 2026 - Giska Aura Muhamad Prasetyo
+Hak Cipta © 2026 - Maula adiba mufadol
 
 ### Production Build
 
@@ -322,8 +322,8 @@ frontend/
 | **Event** | Full CRUD dengan dropdown relasi |
 
 ### Biodata Page
-- NIM: 24090055
-- Nama: Giska Aura Muhamad Prasetyo
+- NIM: 24090052
+- Nama: Maula adiba mufadol
 - Prodi: D4 Teknik Informatika
 - Semester: 4 / Kelas: 4B
 
