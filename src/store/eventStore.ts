@@ -44,7 +44,7 @@ interface EventState {
   deleteKategori: (id: number) => Promise<void>;
 }
 
-const API = 'http://localhost:3001/api';
+const API = 'https://backendinvofest-production-fc32.up.railway.app/api';
 
 export const useEventStore = create<EventState>((set, get) => ({
   events: [],
